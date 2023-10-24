@@ -1,7 +1,7 @@
 # Gestión de Actividades de Limpieza
 
 - **Diagrama de Clases:** [Ver imagen](https://drive.google.com/file/d/1NbJS0wnx4NX8X3u0_BNAx_KnQbvlfODq/view)
-- **Modelo de Base de Datos:** [Ver imagen](URL_DEL_MODELO_DE_BASE_DE_DATOS)
+- **Modelo de Base de Datos:** [Ver imagen](https://drive.google.com/file/d/1rodtOgSaIDfbzlLnfVkivqRnH9sRpAyg/view?usp=drive_link)
 
 Este proyecto es una aplicación de gestión de actividades de limpieza desarrollada en Java con la ayuda de NetBeans. La aplicación utiliza una base de datos para almacenar y administrar datos relacionados con las actividades de limpieza, incluidos detalles de las actividades, evidencia en forma de imágenes, información sobre las colonias atendidas y la asignación de jefes de cuadrilla.
 
